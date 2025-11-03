@@ -109,6 +109,7 @@ Based on the analysis of shipping cost models and profitability:
 
 ## 🧩 Tools & Technologies
 
+- **DB Browser SQLite** - Data Base Management System to connect all csv-files and write SQL query
 - **SQL** – Data cleaning, integration, transformation, and profit modeling.
 - **Tableau** – Visualization and profitability comparison across shipping models.
 
