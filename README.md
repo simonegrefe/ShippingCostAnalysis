@@ -140,6 +140,4 @@ shipping-cost-analysis/
 
 ## 🪪 License
 
-This project is licensed for **educational and demonstration purposes only**.
-
-All data used is **fictional** and does not represent real business information.
+This project is licensed for **educational and demonstration purposes only**. All data used is **fictional** and does not represent real business information.
