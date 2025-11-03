@@ -103,8 +103,6 @@ Based on the analysis of shipping cost models and profitability:
 - **Promote combined shipping options** to allow customers to consolidate multiple purchases into a single shipment.
 - **Segment customers** by order behavior to target promotions that maximize profitability among frequent or high-volume buyers.
 - **Reevaluate pricing strategy** to align with the cost advantages of larger orders while maintaining competitiveness.
-- **Track performance** in Tableau to monitor shipping costs, profit margins, and regional trends over time.
-
 
 
 ## 🧩 Tools & Technologies
