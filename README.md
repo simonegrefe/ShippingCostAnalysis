@@ -79,10 +79,10 @@ The transformation process involved cleaning, normalizing, and enriching data fr
 
 ## 📊 Visualization
 
-![Dashboard pdf preview](Tableau_dashboard.png)
+![Dashboard pdf preview](Tableau_dashboard)
 
 
-📁 Tableau Dashboard: [**Shipping Cost Pricing Analysis**](https://public.tableau.com/app/profile/simone.grefe.schoerner/viz/BarkAndPurr-ShippingCostPricingAnalysis/productbundleshypothesismodel)
+📁 Tableau Dashboard: [**Shipping Cost Analysis**](https://public.tableau.com/app/profile/simone.grefe.schoerner/viz/BarkAndPurr-ShippingCostPricingAnalysis/productbundleshypothesismodel)
 
 
 
